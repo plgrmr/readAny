@@ -1,0 +1,13 @@
+Package: readAny
+Type: Package
+Title: Detect encoding for reading mult-language files
+Version: 0.1.0
+Author: Philogrammer
+Maintainer: Philogrammer <juyoung.t@gmail.com>
+Description: Detect encoding for reading mult-language files
+License:
+Encoding: UTF-8
+LazyData: true
+Depends:
+        readr
+
